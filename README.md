@@ -7,7 +7,6 @@
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         </head>
-        <body>
             <body style="background-image:url('https://img5.goodfon.ru/wallpaper/nbig/9/c5/loshad-kon-sobaka.jpg')">
               
             
